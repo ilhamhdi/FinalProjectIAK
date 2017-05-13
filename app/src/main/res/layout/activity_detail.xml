@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.mypccare.DetailActivity">
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="TITLE"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:background="@color/colorPrimary"
+        android:textStyle="bold"
+        android:textSize="25dp"/>
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/judul"
+        android:scaleType="fitXY"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/picture">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:text="Messenger bag whatever 3 wolf moon dreamcatcher celiac poke. Hot chicken distillery celiac health goth four loko disrupt artisan hammock. 8-bit meggings farm-to-table copper mug swag williamsburg, four loko chillwave. Kickstarter tote bag iceland bushwick yuccie retro. Brooklyn DIY seitan, kitsch blue bottle poutine fam mlkshk polaroid art party green juice drinking vinegar hella four loko. Ugh shoreditch lyft hell of, pork belly aesthetic banh mi kickstarter irony polaroid wolf yuccie lomo pinterest everyday carry. Raclette cold-pressed roof party, intelligentsia dreamcatcher yr celiac man braid hella before they sold out vape ugh selvage fap stumptown.
+
+Quinoa man braid iPhone semiotics seitan prism. Sustainable green juice pork belly chia fashion axe brooklyn. Raclette butcher affogato disrupt. Biodiesel chartreuse banh mi tote bag. Kitsch tote bag brunch letterpress, four loko sartorial try-hard deep v hexagon selvage mlkshk. Pinterest neutra bicycle rights man braid, authentic pickled green juice godard flexitarian franzen ennui kitsch celiac. Gluten-free shabby chic church-key letterpress, YOLO stumptown pitchfork sustainable.
+
+Meggings mixtape tote bag, yuccie meh affogato small batch locavore health goth pork belly mustache. Quinoa swag street art deep v organic, seitan keytar yuccie art party normcore fixie hot chicken typewriter. Distillery celiac tousled, occupy asymmetrical forage tote bag godard organic authentic. Letterpress distillery wayfarers cronut kinfolk jean shorts. Artisan stumptown 3 wolf moon, af pok pok neutra poke. Pabst mixtape jianbing 8-bit irony, glossier forage knausgaard succulents blue bottle quinoa. Kickstarter deep v chambray, umami sustainable keytar af live-edge wayfarers food truck pabst.
+
+You probably haven't heard of them try-hard listicle, air plant fashion axe chicharrones heirloom butcher mumblecore kogi PBR n B chia twee viral. Williamsburg lumbersexual cornhole tilde flexitarian, fingerstache disrupt seitan snackwave whatever four loko celiac. Taxidermy schlitz next level meditation snackwave. Hell of direct trade heirloom XOXO, tumeric whatever typewriter small batch brunch jean shorts. Taxidermy fanny pack pug bushwick, tousled chillwave neutra pickled tacos. Vegan post-ironic offal blog jianbing. Echo park master cleanse actually artisan, selfies kale chips church-key hoodie fixie cronut heirloom chartreuse."/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

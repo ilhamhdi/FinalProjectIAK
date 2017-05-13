@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">My PC Care</string>
+    <string name="prosesor">Processor adalah chip atau sering dikenal dengan sebutan Mikrosprocessor, dan CPU merupakan otak dari komputer. Kecepatan processor tergantung dari kecepatannya, satuan ukuran processor yaitu Megahertz (Mhz), bahkan sekarang sudah mencapai GigaHertz (GHz), mulai dari 1 GHz, 2 GHz, 2.4 GHz, 2.6 GHz bahkan mencapai 3.04 GHz. Semakin besar ukurannya akan semakin cepat prosesnya. Merek-merek processor di antaranya : intel, Amd, Cyrix, IBM, Athlon, Duron, Via dan lain-lain. \n
+Cara merawat CPU (processor) adalah seperti dibawah ini : \n
+1. Perhatikan letak dari Fan, pasang pada posisi yang benar agar udara dapat berputar dengan lancar. \n
+2. Usahakan fan processor dengan putaran yang lebih tinggi, misal : 5400 rpm atau diatasnya. \n
+3. Usahakan heatsink menggunakan penghantar yang tebuat dari tembaga atau aluminium. \n
+4. Usahakan sebelum dipasang, oleskan silicon grease di bagian belakang processor agar penghantar panas lebih lancar. \n</string>
+    <string name="cooler_fan"> Fan atau Kipas pendingin, adalah salah satu kelengkapan pada komputer.
+Fungsi utama dari sebuah kipas komputer adalah mengeluarkan panas dan menggantinya dengan udara segar ke dalam sistem. Kipas pendingin ini telah dirancang agar sesuai ditempatkan pada motherboard atau hard disk drive. Ada sekitar 3 atau 4 baling-baling kipas pada CPU. Ada juga komputer yang telah dirancang khusus sudah mempunyai kipas extra yang ditempelkan pada casing komputer yang terbuat dari alumunium, namun demikian kipas tersebut tidaklah cukup untuk meredam panas yang dihasilkan oleh CPU sehingga tetap harus dipasang kipas pendingin CPU, apalagi untuk komputer yang digunakan antara antara 12 hingga 15 jam sehari sehingga kipas tersebut tidak akan cukup untuk memberikan ventilasi udara yang memadai. Oleh karena itu kipas pendingin untuk CPU didesain dan telah terbukti mampu meredam panas yang dihasilkan oleh CPU walaupun komputer dioperasikan dalam jangka waktu yang lama. \n
+Berikut adalah masalah yang biasa terjadi pada cooler fan dan cara menanganinya: \n
+1. Fan pendingin mati \n
+        Masalah yang timbul komputer akan cepat panas, sering hang, reboot dengan sendirinya dikarenakan fan pendingan mati. Langkah – langkah perbaikan adalah: \n
+- Memeriksa fan yang terdapat dalam casing komputer apakah kabel power sudah terpasang dengan baik. \n
+- Bersihkan kotoran-kotoran yang ada didalamnya. \n
+- Lepas penutup poros fan, serta diberi sedikit pelumas supaya gerakan fan tidak ada hambatan. \n
+- Jika sambungan kabel power sudah benar dan fan sudah bersih dari kotoran tetapi masih tetap mati, kemungkinan besar fan rusak. \n
+2. Bunyi fan yang berisik \n
+Masalah yang lain adalah fan terlalu berisik. Ketika komputer sedang digunakan, suaranya terdengar sangat berisik sehingga sering mengganggu konsentrasi terhadap pekerjaan. Untuk mengetahui dari mana asalnya suara fan tersebut, langkah yang diambil : \n
+ - Matikan komputer dan buka casing komputer lalu hidupkan komputer dalam keadaan casing terbuka. \n
+- Cek apakah mungkin ada kabel yang menyangkut pada fan. \n
+- Jika ada kabel yang menyangkut pada fan, rapikanlah agar tidak mengenai fan. \n
+</string>
+    <string name="motherboard">Motherboard merupakan tempat atau induk dari semua komponen komputer seperti : Processor, VGA Card, Modem, Sound Card, Lan Card, FDD, Kabel IDE dan sebagainya yang digunakan untuk meghubungkan antara komponen satu dengan komponen yang lain dan tergantung dengan jenis Chipset yang dipasang. Di dalam motherboard terdapat banyak jalur data (Bus) yang menghubungkan dari processor ke memori, dari chipset ke konektor harddisk dan lain-lain. \n
+Cara perawatan motherboard yaitu sebagai berikut : \n
+1.      Bersihkan dengan kuas atau penyedot debu. \n
+2.      Menjaga suhu. \n
+3.      Rapikan jalur-jalur kabel dengan cara mengikat agar sirkulasi udara dapat berjalan lancar. \n
+</string>
+    <string name="ram">RAM (Random Access Memory) adalah memori eksternal dan komponen primer yang merupakan ruang untuk menyimpan program atau data yang dapat ditulis dan dibaca oleh processor pada sebuah komputer. RAM bertindak sebagai media penyimpan sementara, karena terpengaruh oleh keadaan aliran listrik. Jika aliran listrik terputus secara otomatis, maka data yang tersimpan akan hilang. Semakin besar/kecil kapasitas RAM akan mempengaruhi cepat atau lambatnya proses program tersebut. Jenis-jenis RAM di antaranya : EDORAM, SDRAM, DDR, dan RDRAM.
+Cara merawat RAM yaitu seperti dibawah ini : \n
+1.      Jangan sering bongkar pasang RAM karena dapat menimbulkan korosi dan rusak. \n
+2.      Jangan sering menyentuh kaki-kaki/PIN yang terletak di bagian bawah RAM, karena dapat menyebabkan kerusakan akibat listrik statis. \n
+3.      Bersihkan dengan menggunakan cairan pembersih. \n
+4.      Bersihkan dengan menggunakan karen penghapus. \n
+5.      Periksa dan kencangkan kedudukan RAM agar dapat bekerja dengan maksimal. \n</string>
+    <string name="vga">VGA Card kepanjangannya adalah (Video Graphics Array) atau (Video Graphics Adapter) atau dapat disebut juga dengan Display Adapter, yaitu sebuah peralatan atau komponen komputer yang berfungsi untuk mengolah output grafik pada layar monitor. Cara memasang VGA Card harus sesuai dengan slot yang ada pada motherboard, misalnya jenis AGP harus di pasang pada slot AGP yaitu slot berwarana cokelat, dan yang berjenis PCI dipasang pada slot PCI yaitu slot berwarna putih. Setiap jenis slot AGP dan VGA Card mempunyai tegangan yang berbeda. Biasanya permasalahan yang sering terjadi yaitu panas yang berlebihan.
+Cara merawat VGA Card adalah sebagai berikut : \n
+1.      VGA Card harus sering dibersihkan dari debu atau kotoran dengan kuas atau dengan peraalatan lain. \n
+2.      Fan harus sering dibersihkan dari debu atau kotoran dengan kuas kecil atau sedang. \n
+3.      Kencangkan kedudukan Fan, jika fan tersebut longgar. \n</string>
+    <string name="hdd">Harddisk merupakan device dari sebuah PC dan merupakan komponen yang sangat penting dalam sebuah komputer, karena harddisk berfungsi sebagai alat media untuk menyimpan data, seperti : sistem operasi, program dan basis data dan harddisk termasuk ke dalam memory eksternal. \n
+Prinsip kinerja harddisk “semakin cepat berputar, semakin cepat pula kinerjanya”. Karena kecepatan harddisk dapat di lihat dari satuan kecepatan putar piringan data per-menit yang dinyatakan dalam satuan rpm, semakin tinggi rpm-nya makin cepat data yang ditransfernya. Contoh satuan kecepatan harddisk ada yang 5400 rpm, 7200 rpm, dan seterusnya.
+Cara merawat harddisk adalah sebagai berikut : \n
+1.      Gunakan software, dengan melakukan, scandisk, defragmentasi atau melakukan low level format. \n
+2.      Untuk mengurangi panas, gunakan kipas pendingin (Cooler) pada harddisk. \n
+3.      Matikan komputer dengan prosedur yang benar, artinya jangan sembarangan mematikan komputer. \n
+4.      Hindari dari debu. \n
+5.      Lakukan pengecekan secara rutin. \n</string>
+    <string name="psu">Power supply berfungsi mengubah arus AC menjadi arus DC untuk didistribusikan ke berbagai macam komponen pada komputer. Daya satuan power supply mulai dari kapasitas : 150 watt, 300 watt, 400 watt dan 500 watt. Disarankan pilih dan beli power supply yang berkualitas atau dengan harga yang pantas, semakin bagus dan stabil kinerjanya. \n
+Cara merawat power supply adalah sebagai berikut : \n
+1.      Pasang stabilizer pada PC, untuk mengurangi kinerja power supply dan mencegah panas yang berlebihan yang dikeluarkan oleh power supply. \n
+2.      Perhatikan kelancaran putaran fan, jika fan putarannya kurang bagus akan menimbulkan panas yang berlebihan. \n
+3.      Bersihkan dari debu atau kotoran yang berada di dalam power supply. \n
+4.      Jangan terlalu dekat memasang power supply dengan ventilasi udara, karena dapat menyebabkan suhu yang ada disekitar casing akan menimbulkan kelembapan dan dapat merusak komponen menjadi berkarat. \n</string>
+</resources>
